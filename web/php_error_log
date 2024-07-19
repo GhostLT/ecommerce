@@ -1,0 +1,2 @@
+[15-May-2024 23:12:25 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting "," or ";" in C:\MAMP\htdocs\ecommerce\web\views\template.php on line 3
+[16-May-2024 03:50:22 UTC] PHP Fatal error:  Cannot use [] for reading in C:\MAMP\htdocs\ecommerce\web\views\template.php on line 10
